@@ -1,4 +1,8 @@
 """
+MSSV: 202418985
+Họ và tên: Nguyễn Phú Thái
+"""
+"""
 Chương trình chính (Main Console Application) cho Hệ thống Tính lương và Thưởng Nhân sự.
 Bao gồm:
 1. Chế độ Demo tự động chạy bộ dữ liệu kiểm thử chuẩn
